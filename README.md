@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rajat</h1>
-- 🌱 I’m currently learning **Devops and development**
+-🌱 I’m currently learning **Devops and development**
 
-- 📫 reach me on **rajatbassi002@gmail.com**
+-📫 reach me on **rajatbassi002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
