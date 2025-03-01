@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 -🌱 I’m currently learning **Devops and development**
 
--📫 reach me on **https://www.linkedin.com/in/rajat-9b609b214/**
+-📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajat-9b609b214/)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <!-- <p align="left"> -->
